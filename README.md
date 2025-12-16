@@ -1,5 +1,6 @@
 Hello World 👋
 
-I'm Jon, founder and CEO of [PowerTools.dev](https://www.powertools.dev). I'm passionate about building great tools, nice companies and cloud infrastructure.
+I'm Jon, founder and CEO of [Nuon](https://www.nuon.co). Our mission at Nuon is to enable the Bring Your Own Cloud (BYOC) deployment model for everyone.
 
-If you'd like to chat, message me on twitter [*@jonmorehouse*](https://twitter.com/jonmorehouse), via email [*jm@powertools.dev*](mailto:jm@powertools.dev) or book some time on my [calendar](https://calendly.com/powertoolsdev).
+
+If you'd like to chat, message me on X [*@nuonjon*](https://twitter.com/nuonjon), or via email [*jon@nuon.co*](mailto:jon@nuon.co).
